@@ -12,5 +12,3 @@ I'm currently learning and experimenting with:
 💡 Building projects to sharpen my skills
 
 This repository is a place where I document my journey, share who I am, and reflect on where I'm headed in tech. 🚀
-
-hello
